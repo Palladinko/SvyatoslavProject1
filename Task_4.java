@@ -11,4 +11,3 @@ public class Task_4 {
     }
 }
 
-//1
